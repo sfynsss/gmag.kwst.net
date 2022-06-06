@@ -254,7 +254,7 @@ blockquote:before {
 	float: left;
 	width: 650px;
 	position: relative;
-	padding:0 40px 0 130px;
+	padding:0 40px 0 0;
 	height: 70px;
 	overflow: hidden;
 }
@@ -263,7 +263,7 @@ blockquote:before {
 	position: absolute;
 	top: 0;
 	height: 100%;
-	left: 130px;
+	left: 0px;
 	right: 50px;
 }
 .header_news-ticker-wrap li {
